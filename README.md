@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Backend develepment, arduino and ESP32 projects.
 - 🌱 I’m currently learning design patterns, frontend development. 
 - 👯 I’m looking to collaborate on Arduino projects, backend development.
