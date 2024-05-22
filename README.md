@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ortiz10101/Ortiz10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Backend develepment, arduino and ESP32 projects.
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ortizlj10101@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my codes XD
--->
+
